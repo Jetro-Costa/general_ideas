@@ -20,3 +20,9 @@ Há a questão da exigência do mercado, poucas pessoas e empresas pensam no con
 Contudo, se calcular tal custo em toda vida útil do veículo, há uma abertura para uma redução de gastos imensa. Infelizmente a indústria automobilística atualmente não nos fornece essa opção.
 
 Quem visa talvez resolver essa brecha aberta no mercado são as empresas de customização de automóveis.
+
+Atualmente; veículos elétricos ainda são ineficientes. Talvez os veículos industriais; como caminhões basculante usados em mineradoras que utilizam geradores e motores elétricos sejam mais eficientes (isso ainda não sei).
+
+Talvez sejam; já que não há uso de transmissão e outros componentes com alto teor de fricção mecânica. Enfim. Utilizaria um motor otimizado para ser gerador; um gerador elétrico bom; etc; etc.
+
+Um exemplo bom do que estou falando é o Toyota prius e alguns veículos elétricos da BMW que possuem um gerador a combustão interna acoplado.
