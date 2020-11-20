@@ -1,0 +1,1 @@
+Nova tendência que veio através do acesso barato a engenharia genética.
