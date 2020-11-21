@@ -1,0 +1,1 @@
+Uma forma de economizar combustível nos veículos é impedindo a carbonização de todoas as tubulações e câmeras de combustão interna. Uma solução que poderia ser feita, é implementar um bico injetor
