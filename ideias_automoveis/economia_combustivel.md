@@ -5,3 +5,6 @@ Uma forma de economizar combustível nos veículos é impedindo a carbonização
 
 
 Fazendo essa modificação, espera-se que a carbonização dos sistemas do veículo diminuam gradativamente.
+
+
+Não sei se isso poderia funcionar para motores no ciclo diesel, mas pode ser interessante testar.
