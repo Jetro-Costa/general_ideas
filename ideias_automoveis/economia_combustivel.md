@@ -4,7 +4,7 @@ Uma forma de economizar combustível nos veículos é impedindo a carbonização
 É claro que o módulo gerenciador do carro teria de ser reconfigurado, o sistema de injeção de combustível modificado além de se realizar novos cálculos para saber a proporção adequada da mistura ar/combustível.
 
 
-Fazendo essa modificação, espera-se que a carbonização dos sistemas do veículo diminuam gradativamente.
+Fazendo essa modificação, espera-se que a carbonização dos sistemas do veículo diminuam gradativamente. Talvez assim, poderíamos ter motores a combustão interna com eficiência de 70% juntamente com outras melhorias.
 
 
 Não sei se isso poderia funcionar para motores no ciclo diesel, mas pode ser interessante testar.
