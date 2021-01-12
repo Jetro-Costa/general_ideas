@@ -5,3 +5,5 @@ Aqui estão descritas algumas ideias para melhoria de algumas coisas. Elas encon
 # Fork do seguinte repositório
 
 https://gitlab.com/Jetro-Costa/ideias-gerais
+
+Porque não consegui configurar o Visual Studio no GitLab :(
