@@ -6,7 +6,7 @@ As tubulações tubulações de refrigeração tanto do motor, condicionador de 
 
 Calotas nas rodas ou outro formato mais aerodinâmico.
 
-Um motor utilizando ciclo Otto ou motor a diesel.
+Um motor utilizando ciclo Otto ou motor a diesel. Diminuir o atrito entre as peças do motor ao máximo.
 
 Se quisesse poderia deixar somente uma única abertura para entrada de ar no motor ou a faria no compartimento do motor como já é realizado.
 
