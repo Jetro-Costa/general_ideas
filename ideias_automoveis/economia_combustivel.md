@@ -12,4 +12,4 @@ Sabe-se que ao desligar o motor, o óleo vaporiza e impregna nas tubulações do
 
 Fazendo essa modificação, espera-se que a carbonização dos sistemas do veículo diminuam gradativamente. Talvez assim, poderíamos ter motores a combustão interna com eficiência de 51% juntamente com outras melhorias.
 
-Não sei se isso poderia funcionar para motores no ciclo diesel, mas pode ser interessante testar.
+Não sei se isso poderia funcionar para motores no ciclo diesel, mas pode ser interessante testar. Talvez com a amônia utilizado nos novos veículos isso possa ser tentado.
