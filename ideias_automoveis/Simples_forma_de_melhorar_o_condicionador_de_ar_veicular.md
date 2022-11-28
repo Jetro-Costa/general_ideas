@@ -11,3 +11,5 @@ Medir, recortar e prender a espuma na tubulação com presilhas de nylon resiste
 Esse processo aumenta um pouco a capacidade de refrigeração do ar condicionador veicular uma vez que, essas áreas protegidas do calor do motor, serão usadas para refrigerar o espaço interno.
 
 Para saber exatamente o aumento de eficiência do condicionador de ar, deves fazer alguns cálculos de condutividade térmica e perda de calor.
+
+Para ambientes no qual a temperatura externa do automóvel é a partir de trinta graus célcius, esta modificação simples faz diferença significativa.
