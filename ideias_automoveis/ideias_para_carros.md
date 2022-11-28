@@ -6,6 +6,8 @@ As tubulações tubulações de refrigeração tanto do motor, condicionador de 
 
 Calotas nas rodas ou outro formato mais aerodinâmico.
 
+Tais medidas acima permitiriam explorar novas maneirasA aerodinâmica de todos os meios de transporte deve ser melhor explorada tanto as passivas quanto as ativas.
+
 Um motor utilizando ciclo Otto ou motor a diesel. Diminuir o atrito entre as peças do motor ao máximo.
 
 Se quisesse poderia deixar somente uma única abertura para entrada de ar no motor ou a faria no compartimento do motor como já é realizado.
@@ -27,3 +29,4 @@ Talvez sejam; já que não há uso de transmissão e outros componentes com alto
 Um exemplo bom do que estou falando é o Toyota prius e alguns veículos elétricos da BMW que possuem um gerador a combustão interna acoplado.
 
 Deve-se explorar opções de gases desperdiçados nos motores de combustão interna, usar métodos para recuperar essa energia prespressada para gerar energia elétrica.
+
