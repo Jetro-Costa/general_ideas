@@ -7,3 +7,5 @@ Nas imagens na pasta estão as suas descrições, mas
 Em uma ambiente com altos índices de PCRs intra-hospitalar isso deveria ser testado em humanos com o obijetivo de aumentar-se as taxas de sobrevida e dimunir as taxas de morbidade sendo a principal (micro-coagulações e o péssimo desfecho neurológico).
 
 Possíveis benefícios, seriam melhorar os defechos neurológicos dos pacientes; contudo, a principal dificuldade é detectar os mais brevemente uma parada cardiorespiratória.
+
+Um etudo avaliando isso em humanos, apesar de ser caro, traria grandes benefícios ao tratamento dos pacientes em hospitais, diminuindo sequelas.
