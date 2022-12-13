@@ -1,16 +1,15 @@
-## Possível simples maneira de limpar sensores de sujeiras automaticamente nos veículos.
+## Possible simple way to automatically clean dirt sensors in vehicles
 
-Uma forma de economizar combustível nos veículos é impedindo a carbonização de todas as tubulações e câmeras de combustão interna.
+One way to save fuel in vehicles is to prevent carbonization of all pipes and internal combustion chambers.
 
-Uma solução que poderia ser feita, é implementar um bico injetor depois do sensor de oxigênio do veículo, assim esse combustível dissolve os vapores de óleos que ficaram grudados na tubulação de admissão de ar do automóvel.
+One solution that could be done is to implement an injection nozzle after the vehicle's oxygen sensor, so that fuel dissolves the oil vapors that are stuck in the car's air intake pipe.
 
-Nos casos de motores à turbo compressor à gasolina, tal mecanismo poderia ser colocado logo após o primeiro sensor de ar.
+In cases of turbocharged gasoline engines, such a mechanism could be placed right after the first air sensor.
 
-Sabe-se que ao desligar o motor, o óleo vaporiza e impregna nas tubulações do veículo, esta medida acima poderia minimizar tal acontecimento.
+It is known that when the engine is turned off, the oil vaporizes and impregnates the vehicle's pipes, this measure above could minimize such an event.
 
-É claro que o módulo gerenciador do carro teria de ser reconfigurado, o sistema de injeção de combustível modificado além de se realizar novos cálculos para saber a proporção adequada da mistura ar/combustível.
+Of course, the car's manager module would have to be reconfigured, the fuel injection system modified, in addition to performing new calculations to know the proper proportion of the air/fuel mixture.
 
-Fazendo essa modificação, espera-se que a carbonização dos sistemas do veículo diminuam gradativamente. Talvez assim, poderíamos ter motores a combustão interna com eficiência de 51% juntamente com outras melhorias.
+By making this modification, it is expected that the carbonization of the vehicle's systems will gradually decrease. Maybe that way, we could have internal combustion engines with 51% efficiency along with other improvements.
 
-Não sei se isso poderia funcionar para motores no ciclo diesel, mas pode ser interessante testar. Talvez com a amônia utilizado nos novos veículos isso possa ser tentado.
-
+I don't know if this could work for engines on the diesel cycle, but it might be interesting to test. Perhaps with the ammonia used in new vehicles this could be tried.
