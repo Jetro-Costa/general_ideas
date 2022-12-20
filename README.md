@@ -1,5 +1,5 @@
 # General ideas
 
-Aqui estão descritas algumas ideias para melhoria de algumas coisas. Elas encontram-se listadas e divididas por temas em cada pasta.
+Here are some ideas for improving some things. They are listed and divided by themes in each folder.
 
-Interessantes?
+Interesting?
