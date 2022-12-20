@@ -1,5 +1,5 @@
-## Nova tendência que veio através do acesso barato à engenharia genética.
+## New trend that came through cheap access to genetic engineering.
 
-Você pode fazer alterações no código genético dos seres vivos de maneira mais certeira.
+You can make changes to the genetic code of living things more accurately.
 
-Isso já está sendo usado exaustivamente na agricultura, ante por métodos indireto, agora, por modificação ativa do DNA das plantas. Tal método permitiu distribuir plantas que não cresceriam em ambientes inadequados e adaptá-las a estes.
+This is already being used extensively in agriculture, formerly by indirect methods, now by actively modifying the DNA of plants. This method allowed distributing plants that would not grow in unsuitable environments and adapting them to these.
