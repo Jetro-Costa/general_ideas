@@ -12,7 +12,7 @@ Um motor utilizando ciclo Otto ou motor a diesel. Diminuir o atrito entre as pe�
 
 Se quisesse poderia deixar somente uma única abertura para entrada de ar no motor ou a faria no compartimento do motor como já é realizado.
 
-[Realizar um isolamento esponjoso, com revestimento em alumínio, de toda a tubulação fria do condicionador de ar, ao realizar isso, aumentaria-se a potência de refrigeração do condicionador de ar.](./Simples_forma_de_melhorar_o_condicionador_de_ar_veicular.md)
+Realizar um isolamento esponjoso, com revestimento em alumínio, de toda a tubulação fria do condicionador de ar, ao realizar isso, aumentaria-se a potência de refrigeração do condicionador de ar.
 
 Colocar um câmbio automático de forma que a maior área de eficiência do motor seja utilizado, isso após analisar-se o gráfico de torque e cavalos do motor utilizado no veículo.
 
