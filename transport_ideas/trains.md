@@ -1,3 +1,3 @@
-## Aerodinâmica de trens.
+## Train aerodynamics.
 
-Aparentemente não há uma atenção para a aerodinâmica de trens e navios; ambos transportes com superfíe de contato extensa.
+Apparently there is no attention paid to the aerodynamics of trains and ships; both transports with extensive contact surface.

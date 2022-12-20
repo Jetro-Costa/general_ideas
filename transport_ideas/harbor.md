@@ -1,7 +1,7 @@
-Aqui vai uma suposição de um porto cargueiro expecífico para contâiners com a maior capacidade de navios atracados simultaneamente.
+Here is an assumption of a specific cargo port for containers with the largest capacity of ships berthed simultaneously.
 
 
-Problemas desse desing será na marobrabilidade dos naivos e o quanto o vento influenciará nessa tarefa.
+Problems with this design will be the maneuverability of the natives and how much the wind will influence this task.
 
 
-Espera-se que com esse desing, o porto possa consumir o menor metro quadrado possível por navio atracado, ao mesmo tempo, maximar o uso de toda a área portuária.
+It is expected that with this design, the port can consume the smallest possible square meter per berthed ship, while maximizing the use of the entire port area.
